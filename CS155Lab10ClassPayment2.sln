@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS155Lab10ClassPayment2", "CS155Lab10ClassPayment2\CS155Lab10ClassPayment2.csproj", "{72C34D38-E94E-4A9C-9319-761419771CCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72C34D38-E94E-4A9C-9319-761419771CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72C34D38-E94E-4A9C-9319-761419771CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72C34D38-E94E-4A9C-9319-761419771CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72C34D38-E94E-4A9C-9319-761419771CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDF5BFAE-B953-4739-AC96-03EFEA3B6984}
+	EndGlobalSection
+EndGlobal
